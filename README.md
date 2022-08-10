@@ -1,4 +1,4 @@
-# Orca Development workflow introduction
+# Orca Development workflow
 
 <details>
 <summary>Test Category</summary>
